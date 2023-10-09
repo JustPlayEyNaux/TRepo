@@ -1,2 +1,3 @@
 Indexing Testing Training Projecting
 Branching Changing Testing Pushing
+Pushing Pulling Testing Hubbing
